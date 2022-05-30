@@ -22,23 +22,3 @@ $ npm i
 
 $ npm run start
 ```
-
-## 👤 author
-
- **Alok raj (alokr417@gmail.com)**
-
-* website: https://alokraj.tech/
-* github: [@alok722](https://github.com/alok722)
-* linkedin: [@alok722](https://linkedin.com/in/alok722)
-
-
-## 🤝 contributing
-
-contributions, issues and feature requests are welcome!
-
-## 🙌 show your support
-
-give a ⭐️ if this project helped you!
-
-
-***
