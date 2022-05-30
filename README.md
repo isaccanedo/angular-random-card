@@ -6,7 +6,7 @@
 
 > an angular app consuming <https://randomuser.me/api/> API and displaying random user on every refresh or button click.
 
-## 🔥 [Home](https://alok722.github.io/angular-random-card/)
+## 🔥 [Home](https://isaccanedo.github.io/angular-random-card/)
 
 ## 📸 screenshot
 ![demo](./src/assets/demo.png)
