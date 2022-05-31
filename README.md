@@ -14,7 +14,7 @@
 ## 🛠 usage
 
 ```sh
-$ git clone https://github.com/alok722/angular-random-card.git
+$ git clone https://github.com/isaccanedo/angular-random-card.git
 
 $ cd angular-random-card
 
